@@ -43,10 +43,10 @@ Use of this repository and related resources are governed by CC-By-NC. More deta
 ## Citation
 
 ```
-@article{Bansal2025HoneyBee,
+@article{bansal2025honeybee,
   title={HoneyBee: Data Recipes for Vision-Language Reasoners},
-  author={Hritik Bansal and Devandra Singh Sachan and Kai-Wei Chang and Aditya Grover and Gargi Ghosh and Wen-tau Yih and Ramakanth Pasunuru},
-  year={2025},
-  url={https://arxiv.org/abs/2510.12225}
+  author={Bansal, Hritik and Sachan, Devandra Singh and Chang, Kai-Wei and Grover, Aditya and Ghosh, Gargi and Yih, Wen-tau and Pasunuru, Ramakanth},
+  journal={arXiv preprint arXiv:2510.12225},
+  year={2025}
 }
 ```
